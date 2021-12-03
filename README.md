@@ -1,8 +1,9 @@
-# *Archived*
+# *Archived, but brought back!*
 
 *This project has been discontinued, and will be archived. This project hasn't been updated since Ubuntu 14.04, and we have no future plans to keep it up to date with the latest Ubuntu versions.*
 
 *The project will be taken down from https://tour.ubuntu.com, and that domain will be redirected to https://www.ubuntu.com/desktop/features. The code will remain here for the foreseeable future for posterity.*
+### *we are new maintainers. for our version, go to https://linux-tours.github.io/old-ubuntu/en/ We want to bring this back to life*
 
 ---
 
